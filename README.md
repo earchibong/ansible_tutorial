@@ -1,4 +1,4 @@
 # ansible_tutorial
 Learn basic fundamentals of ansible
 
-1. Testing how to clone a repository
+1. Testing how to clone a repository and update a remote file.
